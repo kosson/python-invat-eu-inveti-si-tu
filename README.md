@@ -10,6 +10,4 @@ Dacă totuși doriți să faceți cunoscute prin distribuire aceste materiale, v
 
 Toate ilustrațiile proprii poartă licența generală a manualului, iar instantaneele fotografice folosite au fost alese atent pentru a se conforma cu licența specificată de creatorii lor; licențe care să permită reutilizarea și cu drept comercial.
 
-All the resources are under Creative Commons BY-NC-SA 4.0 license.
-
 Dacă ți-au fost utile aceste resurse, poți da o cafea sau poți să mă sprijini mai substanțial prin contul de la www.patreon.com/kosson
